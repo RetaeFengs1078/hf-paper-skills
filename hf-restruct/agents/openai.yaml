@@ -1,0 +1,7 @@
+interface:
+  display_name: "HF Restruct"
+  short_description: "Explicit editorial restructuring of complete papers"
+  default_prompt: "Use $hf-restruct to review this manuscript's organization and propose a focused outline without changing its scientific content."
+
+policy:
+  allow_implicit_invocation: false
