@@ -4,6 +4,9 @@ Personal paper-writing skills for optimization, machine learning, and theoretica
 
 面向优化、机器学习与理论研究论文的自用写作 skills。
 
+本项目在 Codex 的帮助下创建与维护。  
+This project is created and maintained with assistance from Codex.
+
 [中文](#中文) · [English](#english)
 
 ## 中文
