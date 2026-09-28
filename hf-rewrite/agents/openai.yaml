@@ -1,0 +1,7 @@
+interface:
+  display_name: "HF Rewrite"
+  short_description: "Turn complete research into clear academic prose"
+  default_prompt: "Use $hf-rewrite to rewrite this complete scientific draft for human readers."
+
+policy:
+  allow_implicit_invocation: false
